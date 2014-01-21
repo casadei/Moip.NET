@@ -1,0 +1,55 @@
+# complied files
+[Oo]bj
+[Bb]in
+
+# user specific files
+*.user
+*.suo
+*.cache
+*.Cache
+*.userprefs
+
+# other files
+*.ncb
+*.log
+*.log.20*
+*.DS_Store
+*.vspscc
+*.vssscc
+thumbs.db
+Thumbs.db
+
+# Resharper files
+_ReSharper.*
+*.resharper
+
+# Anhk SVN Plugin files
+Ankh.NoLoad
+
+# compass and sass
+.sass-cache/
+
+# unit testing.
+Local.testsettings
+*.sdf
+TestResults
+test-results
+
+# NUnit
+TestResult.xml
+
+# published projects
+published
+
+#mono files
+*.pidb
+
+# DotCover files
+*.dotcover
+
+# BeyondCompare merge files
+*.orig
+
+#Binaries
+src/packages/*
+!src/packages/repositories.config
